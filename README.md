@@ -21,6 +21,12 @@ To run the code and reproduce the analysis, the following dependencies are requi
 
 -> scikit-learn
 
+![image](https://github.com/suryaaaprakash/repository/raw/main/downloads(6).png)
+
+
+
+
+
 ## Methodology
 
 1. We used scikit-learn library, which provides a range of machine learning algorithms and tools for text classification tasks.

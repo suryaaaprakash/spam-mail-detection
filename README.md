@@ -54,8 +54,16 @@ To run the code and reproduce the analysis, the following dependencies are requi
 Our text classification model has achieved promising results in distinguishing between SPAM and HAM messages. Here are some key performance metrics:
 
 - **Accuracy**:  0.9670181736594121
-- **Confusion Matrix**:
-| Actual\\ Predicted | SPAM  | HAM   |
+## Confusion Matrix
+
+| Actual\ Predicted | SPAM  | HAM   |
 |-------------------|-------|-------|
-| **SPAM**          | TP    | FP    |
-| **HAM**           | FN    | TN    |
+| **SPAM**          | 904   | 56    |
+| **HAM**           | 2     | 958   |
+
+- **SPAM**: Actual SPAM messages.
+- **HAM**: Actual HAM messages.
+- **TP (True Positives)**: 904 SPAM messages correctly classified as SPAM.
+- **FP (False Positives)**: 56 HAM messages incorrectly classified as SPAM.
+- **FN (False Negatives)**: 2 SPAM messages incorrectly classified as HAM.
+- **TN (True Negatives)**: 958 HAM messages correctly classified as HAM.

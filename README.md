@@ -24,6 +24,7 @@ To run the code and reproduce the analysis, the following dependencies are requi
 ## EDA
 ![download (6)](https://github.com/suryaaaprakash/spam-mail-detection/assets/147717009/83c96613-a288-4106-8892-26427a71b706)
 
+
 ![download (7)](https://github.com/suryaaaprakash/spam-mail-detection/assets/147717009/fbbf64e0-ad57-4319-b226-fc3b5639cfbc)
 
 

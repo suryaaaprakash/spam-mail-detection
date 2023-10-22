@@ -21,10 +21,7 @@ To run the code and reproduce the analysis, the following dependencies are requi
 
 -> scikit-learn
 
-![image](https://github.com/suryaaaprakash/C:\Users\HP\Downloads\downloads(6).jpg)
-assets/147717009/6fe51670-9f60-480d-96ec-d20383cfa66c)
-
-
+![download (6)](https://github.com/suryaaaprakash/spam-mail-detection/assets/147717009/83c96613-a288-4106-8892-26427a71b706)
 
 
 ## Methodology

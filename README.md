@@ -21,6 +21,7 @@ To run the code and reproduce the analysis, the following dependencies are requi
 
 -> scikit-learn
 
+## EDA
 ![download (6)](https://github.com/suryaaaprakash/spam-mail-detection/assets/147717009/83c96613-a288-4106-8892-26427a71b706)
 
 
@@ -32,14 +33,18 @@ To run the code and reproduce the analysis, the following dependencies are requi
 
 3. We load the dataset using pandas and split it into features (X) and labels (Y).
 
-4. The data is split into training and testing sets using train_test_split from scikit-learn
+4. In this project, we employed NLTK for text preprocessing, which includes tokenization, stopword removal, and punctuation removal, to clean and prepare the text data before training our model.
 
-5. We convert the text messages into numerical features using TfidVectorizer from scikit-learn
+5. The data is split into training and testing sets using train_test_split from scikit-learn
 
-6. We train the spam classifier model using the Logistic Regression algorithm, which is commonly used for text classification tasks.
+6. We convert the text messages into numerical features using TfidVectorizer from scikit-learn
 
-7. At last we evaluate the model's performance by predicting labels for the testing set and comparing them to the actual labels.
+7. We train the spam classifier model using the Logistic Regression algorithm, which is commonly used for text classification tasks.
 
-8. We calculate the accuracy score and the confusion matrix to assess the model's performance.
+8. I used smote for class imbalance
+
+9. At last we evaluate the model's performance by predicting labels for the testing set and comparing them to the actual labels.
+
+10. We calculate the accuracy score and the confusion matrix to assess the model's performance.
 
 ## Result

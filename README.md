@@ -55,7 +55,8 @@ Our text classification model has achieved promising results in distinguishing b
 
 - **Accuracy**:  0.9670181736594121
 - **Confusion Matrix**:
+
 -| Actual\ Predicted | SPAM  | HAM   |
 |-------------------|-------|-------|
 | **SPAM**          | 904   | 56   |
-| **HAM**           | 2     | 958    |
+| **HAM**           | 2     | 958  |

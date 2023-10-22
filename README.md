@@ -55,8 +55,7 @@ Our text classification model has achieved promising results in distinguishing b
 
 - **Accuracy**:  0.9670181736594121
 - **Precision**: 
-           0       1.00     
-           1       0.94 
+           0       1.00     1       0.94 
 - **Recall**: [Insert recall score]
 - **F1-score**: [Insert F1-score]
 - **Confusion Matrix**:
